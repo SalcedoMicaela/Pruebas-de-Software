@@ -1,0 +1,6 @@
+projectKey=PrroyectoWeb
+serverUrl=http://localhost:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://localhost:9000/dashboard?id=PrroyectoWeb
+ceTaskId=ed1eafbd-b3fb-47c3-b01d-d0a0ee15018e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ed1eafbd-b3fb-47c3-b01d-d0a0ee15018e
